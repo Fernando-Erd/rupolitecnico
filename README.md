@@ -1,6 +1,6 @@
 # RU Politécnico
 
-Bot for Twitter that makes the menu of the University Restaurant of UFPR 
+Bot for Twitter that show the menu of the University Restaurant of UFPR 
 
 ## Dependencies:
 
